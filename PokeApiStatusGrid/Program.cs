@@ -34,10 +34,11 @@ using(var client = new HttpClient())
             {
                 typeInfo[type.type.name].weight += stats.weight;
                 typeInfo[type.type.name].height += stats.height;
+                typeInfo[type.type.name].pokemonCount++;
             }
             else
             {
-                typeInfo.Add(type.type.name, new TypeStats { height = stats.height, weight = stats.weight });
+                typeInfo.Add(type.type.name, new TypeStats { pokemonCount = 1,height = stats.height, weight = stats.weight });
             }
         }
     }
@@ -50,7 +51,7 @@ using(var client = new HttpClient())
 
     foreach(var element in typeInfo)
     {
-        Console.WriteLine($"Average Data for {element.Key.ToUpper()} type: Weight: {element.Value.weight/ int.Parse(limit)} Height: {element.Value.height/ int.Parse(limit)}" );
+        Console.WriteLine($"Average Data for {element.Key.ToUpper()} type: Weight: {element.Value.weight/ element.Value.pokemonCount} Height: {element.Value.height/ element.Value.pokemonCount}" );
     }
 
     Console.WriteLine();

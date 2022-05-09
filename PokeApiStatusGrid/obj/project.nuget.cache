@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p1EshsHR8NZozYCHfcpMDMgrRmZbtzX09u28HYLWZ/CdHHWWDWtBXc8u5bA8HpKWJJfoEM02+qg6Du2NH+jMTA==",
+  "dgSpecHash": "eU8XK1hfvPZ4fhsYNwG3zylUUckUhIKMEojF7KxBrSfuuPKSNSxmnOCj1wsewSEoBPH7otOlExOa3D2eFHdIfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ybeja\\source\\repos\\PokeApiStatusGrid\\PokeApiStatusGrid\\PokeApiStatusGrid.csproj",
+  "projectFilePath": "D:\\repos\\StratusGrid-PokeApi\\PokeApiStatusGrid\\PokeApiStatusGrid.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ybeja\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\ybeja\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

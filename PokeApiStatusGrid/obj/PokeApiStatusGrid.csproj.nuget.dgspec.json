@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ybeja\\source\\repos\\PokeApiStatusGrid\\PokeApiStatusGrid\\PokeApiStatusGrid.csproj": {}
+    "D:\\repos\\StratusGrid-PokeApi\\PokeApiStatusGrid\\PokeApiStatusGrid.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ybeja\\source\\repos\\PokeApiStatusGrid\\PokeApiStatusGrid\\PokeApiStatusGrid.csproj": {
+    "D:\\repos\\StratusGrid-PokeApi\\PokeApiStatusGrid\\PokeApiStatusGrid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ybeja\\source\\repos\\PokeApiStatusGrid\\PokeApiStatusGrid\\PokeApiStatusGrid.csproj",
+        "projectUniqueName": "D:\\repos\\StratusGrid-PokeApi\\PokeApiStatusGrid\\PokeApiStatusGrid.csproj",
         "projectName": "PokeApiStatusGrid",
-        "projectPath": "C:\\Users\\ybeja\\source\\repos\\PokeApiStatusGrid\\PokeApiStatusGrid\\PokeApiStatusGrid.csproj",
+        "projectPath": "D:\\repos\\StratusGrid-PokeApi\\PokeApiStatusGrid\\PokeApiStatusGrid.csproj",
         "packagesPath": "C:\\Users\\ybeja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ybeja\\source\\repos\\PokeApiStatusGrid\\PokeApiStatusGrid\\obj\\",
+        "outputPath": "D:\\repos\\StratusGrid-PokeApi\\PokeApiStatusGrid\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ybeja\\AppData\\Roaming\\NuGet\\NuGet.Config",

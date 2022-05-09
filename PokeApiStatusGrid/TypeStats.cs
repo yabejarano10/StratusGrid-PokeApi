@@ -8,6 +8,7 @@ namespace PokeApiStatusGrid
 {
     internal class TypeStats
     {
+        public int pokemonCount { get; set; }
         public int weight { get; set; }
         public int height { get; set; }
     }
